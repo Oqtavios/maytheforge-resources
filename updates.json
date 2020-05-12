@@ -18,6 +18,13 @@
       "title": "May 11a",
       "uri": "https://github.com/Oqtavios/maytheforge-resources/releases/download/may11a/update.zip",
       "hash": ""
+    },
+    {
+      "build": 2,
+      "required": true,
+      "title": "May 12",
+      "uri": "https://github.com/Oqtavios/maytheforge-resources/releases/download/may12/update.zip",
+      "hash": "5d401a2e715dffcf2ef557179a405ee5"
     }
   ]
 }

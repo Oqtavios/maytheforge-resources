@@ -1,1 +1,23 @@
-{"latest":{"url":"https://github.com/Oqtavios/maytheforge-resources/releases/download/may11a/update.zip"}}
+{
+  "full": {
+    "uri": "https://github.com/Oqtavios/maytheforge-resources/releases/download/may11a/update.zip",
+    "build": 1,
+    "hash": ""
+  },
+  "versions": [
+    {
+      "build": 0,
+      "required": false,
+      "title": "May 11",
+      "uri": "https://github.com/Oqtavios/maytheforge-resources/releases/download/may11/update.zip",
+      "hash": ""
+    },
+    {
+      "build": 1,
+      "required": true,
+      "title": "May 11a",
+      "uri": "https://github.com/Oqtavios/maytheforge-resources/releases/download/may11a/update.zip",
+      "hash": ""
+    }
+  ]
+}

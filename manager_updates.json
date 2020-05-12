@@ -1,0 +1,24 @@
+{
+  "versions": [
+    {
+      "build": 220,
+      "uri": "https://maytheforge.itsleo.cc/launcher/2.2.0/MayTheForge.exe",
+      "hash": ""
+    },
+    {
+      "build": 221,
+      "uri": "https://maytheforge.itsleo.cc/launcher/2.2.1/MayTheForge.exe",
+      "hash": ""
+    },
+    {
+      "build": 222,
+      "uri": "https://maytheforge.itsleo.cc/launcher/2.2.2/MayTheForge.exe",
+      "hash": ""
+    },
+    {
+      "build": 230,
+      "uri": "https://maytheforge.itsleo.cc/launcher/2.3.0/MayTheForge.exe",
+      "hash": ""
+    }
+  ]
+}

@@ -25,6 +25,20 @@
       "title": "May 12",
       "uri": "https://github.com/Oqtavios/maytheforge-resources/releases/download/may12/update.zip",
       "hash": "5d401a2e715dffcf2ef557179a405ee5"
+    },
+	{
+      "build": 3,
+      "required": true,
+      "title": "May 14",
+      "uri": "https://github.com/Oqtavios/maytheforge-resources/releases/download/may14/update.zip",
+      "hash": "11e0dfb8c543d257d929e8666c53bbbc"
+    },
+	{
+      "build": 4,
+      "required": true,
+      "title": "May 14a",
+      "uri": "https://www.dropbox.com/s/lk2kvv4fy8m91w4/update.zip?dl=1",
+      "hash": "2fca1531c6f63df9754e9b2fa199d8ff"
     }
   ]
 }
